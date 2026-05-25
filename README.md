@@ -1,9 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://github.com/RaviKumarSah07">Ravi</a></h2>
 <p>I'm currently a 3rd year B.Tech Computer Science and Engineering Student at <strong><a href="https://pdeu.ac.in/">PDEU</a></strong>.With a strong interest in backend development and system design, I spend my time building projects, learning modern technologies, and sharpening my problem-solving skills through DSA and real-world development.</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
-
 <ul>
 <li>🚀 Currently building full-stack applications and sharpening my backend engineering skills.</li>
 <li>🧠 Learning about <strong>system design</strong>, <strong>scalable architectures</strong>, and advanced <strong>backend development</strong>.</li>
@@ -13,6 +13,7 @@
 <li>📚 Passionate about building real-world products that solve meaningful problems.</li>
 <li>⚡ Fun Fact: I enjoy turning ideas into functional applications and continuously learning new technologies.</li>
 </ul>
+
 <img src="https://webpets-flame.vercel.app/generated/rubber-duck/yellow_run_8fps.gif" alt="yellowRubberDuck" />
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
