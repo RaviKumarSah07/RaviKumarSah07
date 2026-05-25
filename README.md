@@ -3,7 +3,7 @@
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
-```html
+
 <ul>
 <li>🚀 Currently building full-stack applications and sharpening my backend engineering skills.</li>
 <li>🧠 Learning about <strong>system design</strong>, <strong>scalable architectures</strong>, and advanced <strong>backend development</strong>.</li>
@@ -13,7 +13,6 @@
 <li>📚 Passionate about building real-world products that solve meaningful problems.</li>
 <li>⚡ Fun Fact: I enjoy turning ideas into functional applications and continuously learning new technologies.</li>
 </ul>
-```
 <img src="https://webpets-flame.vercel.app/generated/rubber-duck/yellow_run_8fps.gif" alt="yellowRubberDuck" />
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -34,4 +33,3 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" />
 </p>
 <img src="https://webpets-flame.vercel.app/generated/crab/red_run_8fps.gif" alt="spiderpig86" />
-
